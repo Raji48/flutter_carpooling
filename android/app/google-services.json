@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378021280694",
+    "project_id": "carpooling-flutter",
+    "storage_bucket": "carpooling-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378021280694:android:4a6c11cd01e2da61ff9f17",
+        "android_client_info": {
+          "package_name": "com.optisol.carpooling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378021280694-gomrndfh8q7fqpuoitnjnid52lgk8vjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDphrM9nThe7FXiAPM4FmpGLklSFhB88XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378021280694-gomrndfh8q7fqpuoitnjnid52lgk8vjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
